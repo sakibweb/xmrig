@@ -1,0 +1,135 @@
+{
+    "autosave": true,
+    "donate-level": 2,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "xmr.pool.gntl.co.uk:20009",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "pool.hashvault.pro:443",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "algo": "rx/0",
+            "url": "sg.monero.herominers.com:10191",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "algo": "rx/0",
+            "url": "hk.monero.herominers.com:10191",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "algo": "rx/0",
+            "url": "ca.monero.herominers.com:10191",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "algo": "rx/0",
+            "url": "fi.monero.herominers.com:10191",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "algo": "rx/0",
+            "url": "monero.herominers.com:10191",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "monerohash.com:9999",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-au1.nanopool.org:14433",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-jp1.nanopool.org:14433",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-asia1.nanopool.org:14433",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-us-west1.nanopool.org:14433",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-us-east1.nanopool.org:14433",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-eu2.nanopool.org:14433",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "xmr-eu1.nanopool.org:14433",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "tls": true
+        },
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "pool.xmr.pt:9000",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "pool.xmrfast.com:9000",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "coin": "monero",
+            "url": "127.0.0.1:18081",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "daemon": true
+        },
+        {
+            "url": "xmrpool.eu:9999",
+            "user": "46up74PRbTiePo29YASSVTLGVXmy7Aad6cCEq1juhPRgX8SHExydu5pffLe2f24QSDSGnsLs7gE636ZwanQVCyxzJ1ruiYJ",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
